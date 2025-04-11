@@ -7,6 +7,7 @@ Thanks for your interest in contributing!
 1. Fork the repo
 2. Add your problem to the `problems/` folder using this format:
    - `$category/$subcategory/problem-name/`
+   - put the solution in `solutions/` under `$category/$subcategory/problem-name/`
      - `README.md` – problem description
      - `input.txt` – sample input
      - `output.txt` – sample output
